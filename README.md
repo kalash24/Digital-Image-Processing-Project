@@ -1,14 +1,10 @@
 # 1051Project
 Digital Image Processing Project
 
-DKJ Technologies Digital Image Processing Software Version 1.3 07/04/2020
-
 Contact Information:
 ____________________
 
 Project Leader: Dorothy Tran
-Voice: 613-879-9985
-Website: https://carleton.ca/engineering-design/
 E-mail: dorothytran@cmail.carleton.ca
 
 
