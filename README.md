@@ -25,7 +25,10 @@ T15_interactive_ui.py		 Python script that runs the Text-Based System user input
 Installation:
 _____________
 
-To successfully run the program, the user must install Python 3.8.1 or later versions for their programming environment, as well as the latest version of Pillow. External modules required for the program is the Cimpl Library Version 1.04 created by Carleton University. The minimum system requirements to run the interface are an operating system of Windows 7 or higher and OS X 10.7 for Mac. The user is also recommended to use a processor of 5th generation or later. 
+To successfully run the program, the user must install Python 3.8.1 or later versions for their programming environment, as well as the latest version of Pillow. 
+External modules required for the program is the Cimpl Library Version 1.04 created by Carleton University. 
+The minimum system requirements to run the interface are an operating system of Windows 7 or higher and OS X 10.7 for Mac. 
+The user is also recommended to use a processor of 5th generation or later. 
 
 
 Usage:
