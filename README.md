@@ -69,43 +69,7 @@ ________
 
 == Filter Functions ==
 
-Red Filter Function: Kian Zalzalah
-Green Filter Function: Joahkim Vaudrin-Moisan
-Blue Filter Function: Dorothy Tran
-Combined RGB Filter Function: Dorothy Tran
-Two-toned Filter Function: Dorothy Tran
-Three-toned Filter Function: Dorothy Tran
-Extreme Contrast Filter Function: Kian Zalzalah
-Sepia tone Filter Function: Joahkim Vaudrin-Moisan
-Adjust Component Function: Kian Zalzalah
-Posterized Filter Function: Kian Zalzalah
-Edge Detection Filter Function: Dorothy Tran
-Improved Edge Detection Filter Function: Dorothy Tran
-Vertical Flip Filter Function: Joahkim Vaudrin-Moisan
-Horizontal Flip Filter Function: Joahkim Vaudrin-Moisan
-
-== Filter Test Functions ==
-
-Red Filter Test Function: Kian Zalzalah
-Green Filter Test Function: Joahkim Vaudrin-Moisan
-Blue Filter Test Function: Dorothy Tran
-Combined RGB Filter Test Function: Dorothy Tran
-Two-toned Filter Test Function: Joahkim Vaudrin-Moisan
-Three-toned Filter Test Function: Joahkim Vaudrin-Moisan
-Extreme Contrast Filter Test Function: Dorothy Tran
-Sepia tone Filter Test Function: Kian Zalzalah
-Posterized Filter Test Function: Dorothy Tran
-Edge Detection Filter Test Function: Kian Zalzalah
-Improved Edge Detection Filter Test Function: Kian Zalzalah
-Vertical Flip Filter Test Function: Dorothy Tran
-Horizontal Flip Filter Test Function: Dorothy Tran
-
-== User Interface Functions ==
-
-User Interface Function: Dorothy Tran
-Apply Filter Function: Dorothy Tran
-Batch User Interface Function: Joahkim Vaudrin-Moisan and Kian Zalzalah
-
+Filters written by: Dorothy Tran, Kian Zalzalah & Joahkim Vaudrin-Moisan
 
 License:
 ________
