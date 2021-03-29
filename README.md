@@ -2,14 +2,11 @@
 Digital Image Processing Project
 
 Contact Information:
-____________________
-
 Project Leader: Dorothy Tran
 E-mail: dorothytran@cmail.carleton.ca
-
+________________________________________
 
 Description:
-____________
 
 The project contains three programs that will digitally process an image of choice. The interactive user interface file is a text-based system that allows the user to apply image filters as the filters are cumulative, onto an image of the user's choice. The user will manually input filters into the python shell as the program includes saving and loading features. The batch user interface file is a file-based system that allows users to combine different letters which are assigned filters, to be applied onto the image of their choice based on the created text file by the user. The images will be then applied and saved as new images.
 
@@ -21,18 +18,16 @@ T15_batch_ui.py			 Python script that runs the File-Based System to apply filter
 
 T15_interactive_ui.py		 Python script that runs the Text-Based System user input to apply filters
 
-
+________________________________________
 Installation:
-_____________
 
 To successfully run the program, the user must install Python 3.8.1 or later versions for their programming environment, as well as the latest version of Pillow. 
 External modules required for the program is the Cimpl Library Version 1.04 created by Carleton University. 
 The minimum system requirements to run the interface are an operating system of Windows 7 or higher and OS X 10.7 for Mac. 
 The user is also recommended to use a processor of 5th generation or later. 
 
-
+________________________________________
 Usage:
-______
 
 1. Launch a programming environment of choice. (Preferably Wing 101)
 
@@ -66,16 +61,13 @@ ______
 	- Enter the name of the batch file you created into the shell and click Enter
 	- When the program is executed, the new filtered images will be saved into your directory as you may view your new filtered images
 
-
+________________________________________
 Credits:
-________
 
-== Filter Functions ==
+Filters & Test Functions written by: Dorothy Tran, Kian Zalzalah & Joahkim Vaudrin-Moisan
 
-Filters written by: Dorothy Tran, Kian Zalzalah & Joahkim Vaudrin-Moisan
-
+________________________________________
 License:
-________
 
 Copyright 2020 Dorothy Tran, Kian Zalzalah & Joakhim Vaudrin-Moisan. All rights reserved.
 
