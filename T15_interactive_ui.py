@@ -4,9 +4,9 @@
 # Date of Submission: April 2, 2020
 
 # Team Members:
-# Dorothy Tran 101141902
-# Kian Zalzalah 101148652
-# Joahkim Vaudrin-Moisan 101153491
+# Dorothy Tran
+# Kian Zalzalah
+# Joahkim Vaudrin-Moisan
 
 from Cimpl import *
 from T15_image_filters import *
