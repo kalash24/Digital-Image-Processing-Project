@@ -1,4 +1,4 @@
-# 1051Project
+# ECOR 1051 Course Project
 Digital Image Processing Project
 
 Contact Information:
